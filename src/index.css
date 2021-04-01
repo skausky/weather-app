@@ -15,7 +15,7 @@ body {
   background-position: bottom;
   transition: 0.4 ease;
   background-repeat: no-repeat;
-  background-color: rgba(51, 20, 187, 0.568);
+  background-color: rgba(49, 21, 124, 0.952);
 }
 
 @media only screen and (min-width : 320px) and (max-width : 480px) {
@@ -30,6 +30,7 @@ body {
 
 .App.warm {
   background-image: url(./assets/warm.jpg);
+  background-color: #faaf0da6;
 }
 
 main {
