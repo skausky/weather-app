@@ -11,10 +11,11 @@ body {
 
 .App {
   background-image: url('./assets/cold.jpg');
-  width: auto;
   background-size: 500px;
   background-position: bottom;
   transition: 0.4 ease;
+  background-repeat: no-repeat;
+  background-color: rgba(51, 20, 187, 0.568);
 }
 
 @media only screen and (min-width : 320px) and (max-width : 480px) {
